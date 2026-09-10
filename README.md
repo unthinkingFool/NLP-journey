@@ -9,7 +9,7 @@
 
 [![Author](https://img.shields.io/badge/Author-Swapnil%20Das-blueviolet?style=for-the-badge)](#-about-the-author)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/unthinkingFool)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/swapnil-das-603824236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swapnil-das-603824236)
 
 
 **📌 Found this useful? The fastest way to say thanks is a visit to [my profile](#-about-the-author) — it takes 10 seconds and means a lot.**
@@ -24,7 +24,7 @@ This repository is written and maintained by **Swapnil Das**.
 
 If these notebooks saved you time, taught you something new, or you're now using pieces of this code in your own NLP projects — **please take a moment to check out my profile and say hi.** Every star, follow, and connection genuinely helps.
 
-> ### 🔗 [**GitHub**](https://github.com/unthinkingFool) · [**LinkedIn**](www.linkedin.com/in/swapnil-das-603824236) 
+> ### 🔗 [**GitHub**](https://github.com/unthinkingFool) · [**LinkedIn**](https://www.linkedin.com/in/swapnil-das-603824236) 
 
 
 If you use this repo, fork it, or build on it — a ⭐ on the GitHub repo and a mention/tag when you share your work is always appreciated.
@@ -324,7 +324,7 @@ nlp-mastery-journey/
 
 Found a bug, an unclear explanation, or have a suggestion for a Module 11? Open an issue or a pull request — or better yet, reach out directly:
 
-> ### 🔗 [**GitHub**](https://github.com/unthinkingFool) · [**LinkedIn**](www.linkedin.com/in/swapnil-das-603824236) 
+> ### 🔗 [**GitHub**](https://github.com/unthinkingFool) · [**LinkedIn**](https://www.linkedin.com/in/swapnil-das-603824236) 
 
 
 ---
@@ -333,7 +333,7 @@ Found a bug, an unclear explanation, or have a suggestion for a Module 11? Open 
 
 ### If this repo helped you, the best way to say thanks is two clicks away 👇
 
-**[⭐ Star this repo](https://github.com/unthinkingFool/NLP-journey)** &nbsp;·&nbsp; **[👤 Visit my profile](https://github.com/unthinkingFool)** &nbsp;·&nbsp; **[💼 Connect on LinkedIn](www.linkedin.com/in/swapnil-das-603824236)**
+**[⭐ Star this repo](https://github.com/unthinkingFool/NLP-journey)** &nbsp;·&nbsp; **[👤 Visit my profile](https://github.com/unthinkingFool)** &nbsp;·&nbsp; **[💼 Connect on LinkedIn](https://www.linkedin.com/in/swapnil-das-603824236)**
 
 Made with care by **Swapnil Das**
 
