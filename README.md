@@ -249,7 +249,7 @@ A closer look at exactly what's inside each notebook.
 ### 1. Get the files
 Clone this repo, or just download the `.ipynb` files if that's all you have:
 ```bash
-git clone REPLACE_WITH_YOUR_GITHUB_URL nlp-mastery-journey
+git clone https://github.com/unthinkingFool/NLP-journey.git nlp-mastery-journey
 cd nlp-mastery-journey
 ```
 
